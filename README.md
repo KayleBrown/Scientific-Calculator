@@ -1,6 +1,4 @@
-Absolutely, I understand the importance. Here's a basic template for your README file. You can customize it based on your needs:
 
-```markdown
 # Scientific Calculator
 
 This is a simple scientific calculator application developed in C# using Windows Forms. It supports standard arithmetic operations as well as various scientific functions.
