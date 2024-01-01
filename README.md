@@ -1,3 +1,6 @@
+Absolutely, I understand the importance. Here's a basic template for your README file. You can customize it based on your needs:
+
+```markdown
 # Scientific Calculator
 
 This is a simple scientific calculator application developed in C# using Windows Forms. It supports standard arithmetic operations as well as various scientific functions.
@@ -21,26 +24,32 @@ This is a simple scientific calculator application developed in C# using Windows
 1. Clone the repository
    ```bash
    git clone https://github.com/KayleBrown/Scientific-Calculator.git
+   ```
 
+2. Open the project in Visual Studio.
 
-Open the project in Visual Studio.
+3. Build and run the application.
 
-Build and run the application.
+## Usage
 
-Usage
-Launch the application.
-Use the number buttons, arithmetic operators, and scientific functions to build your expression.
-Press the "Equals" button to evaluate the expression.
-Error messages will be displayed for invalid expressions.
-Customization
+- Launch the application.
+- Use the number buttons, arithmetic operators, and scientific functions to build your expression.
+- Press the "Equals" button to evaluate the expression.
+- Error messages will be displayed for invalid expressions.
+
+## Customization
+
 Feel free to customize and extend the application to meet your specific requirements. You can add more scientific functions, improve the user interface, or enhance error handling.
 
-Contributing
+## Contributing
+
 If you'd like to contribute to the project, feel free to submit pull requests or open issues.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
 
-Acknowledgments
-This project was inspired by the need for a simple and reliable scientific calculator.
-Special thanks to the C# and Windows Forms community for valuable insights and resources.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- This project was inspired by the need for a simple and reliable scientific calculator.
+- Special thanks to the C# and Windows Forms community for valuable insights and resources.
